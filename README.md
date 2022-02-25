@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Aspirante a desenvolvedora fullstack. No momento gostando bastante de front-end ❤️
+Sou estudante na [Driven Education](https://www.driven.com.br/), em breve desenvolvedora fullstack. Também curso Análise e Desenvolvimento de Sistemas na [Unisinos](https://www.unisinos.br/). No momento gostando bastante de front-end ❤️
 
 **BIO**
 
